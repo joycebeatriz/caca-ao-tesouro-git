@@ -1,1 +1,5 @@
 Somos o grupo Mamãe Pingo e estamos aprendendo Git!
+
+O git foi inicialmente criado pelo Linus Torvalds
+com o objetivo de auxiliar no desenvolvimento do seu 
+principal projeto, o Linux.
