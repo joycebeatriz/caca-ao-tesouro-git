@@ -1,0 +1,4 @@
+Somos o grupo 5 e estamos aprendendo Git!
+
+Curiosidade sobre o GitHub:
+    Oficialmente não há versão desktop para distribuiçoes linux, porem existe um fork criado por Brendan Forster que funciona em lixux
