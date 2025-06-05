@@ -1,1 +1,3 @@
 Somos o grupo 6 e estamos aprendendo Git!
+
+O mascote do git é uma mistura de gato com polvo.
