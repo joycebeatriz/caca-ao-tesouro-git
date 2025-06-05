@@ -21,7 +21,7 @@ Escrevam aqui uma frase final sobre o que aprenderam no desafio.
 
 ## 😄 Meme do Dia
 Compartilhe aqui o seu meme favorito sobre Git/GitHub!
-
+https://i.redd.it/ln618pt684b71.jpg
 
 ## 🎁 Bônus
 Compartilhe uma dica ou truque de Git que você descobriu durante o desafio!
