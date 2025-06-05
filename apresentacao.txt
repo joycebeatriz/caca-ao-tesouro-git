@@ -1,1 +1,4 @@
 Somos o grupo 2 e estamos aprendendo Git!
+
+
+O mascote do Git é um gato chamado "Git the Cat"
