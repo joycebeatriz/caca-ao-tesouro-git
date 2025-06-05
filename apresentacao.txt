@@ -1,1 +1,2 @@
 Somos o grupo "Mamãe Pingo" e estamos aprendendo Git!
+GitHub foi lançado em 2008
