@@ -1,2 +1,4 @@
 Boa noite!
 Nós somos o grupo 6 e estamos aprendendo o git. 
+
+O mascote do Git é um gato chamado "Git the Cat"
