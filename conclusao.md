@@ -22,6 +22,7 @@ Escrevam aqui uma frase final sobre o que aprenderam no desafio.
 ## 😄 Meme do Dia
 Compartilhe aqui o seu meme favorito sobre Git/GitHub!
 
+![Logo do Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 !(https://ichef.bbci.co.uk/images/ic/512xn/p09j7x4c.jpg.webp))
 
 
