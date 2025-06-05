@@ -1,6 +1,1 @@
-*Somos o Grupo 10 e estamos aprendendo GIT!*
-
-Guilherme Moraes
-Andriel Figueiredo
-Rafael Bueno
-Itallo Chaves
+Somos o grupo 1 e estamos aprendendo Git!
